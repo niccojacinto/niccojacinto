@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 
 ![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Hoe.gif)![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Angeling.gif)Hi I'm Nicco 👋
 
-
+![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
 Teach me procedural things!
 
+![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
 Teach me game multiplayer networking architecture things!
 
+![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
 Teach me VR things!
 
+![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
 Teach me Automation things!
 
 
