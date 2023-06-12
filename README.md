@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/niccojacinto/niccojacinto/Angeling.gif)
+![](https://github.com/niccojacinto/niccojacinto/blob/main/Angeling.gif)
+
