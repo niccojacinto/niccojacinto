@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **niccojacinto/niccojacinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Angeling.gif)
-![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Hoe.gif)
+
+```
+                |\     /|(  ____ \( \      (  ____ \(  ___  )(       )(  ____ \  |\     /|( )(  ___  )( \      ( \      
+                | )   ( || (    \/| (      | (    \/| (   ) || () () || (    \/  ( \   / )|/ | (   ) || (      | (      
+                | | _ | || (__    | |      | |      | |   | || || || || (__       \ (_) /    | (___) || |      | |      
+                | |( )| ||  __)   | |      | |      | |   | || |(_)| ||  __)       \   /     |  ___  || |      | |      
+                | || || || (      | |      | |      | |   | || |   | || (           ) (      | (   ) || |      | |      
+                | () () || (____/\| (____/\| (____/\| (___) || )   ( || (____/\     | |      | )   ( || (____/\| (____/\
+                (_______)(_______/(_______/(_______/(_______)|/     \|(_______/     \_/      |/     \|(_______/(_______/
+```
+
+![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Hoe.gif)![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Angeling.gif)Hi I'm Nicco 👋
+
+
+Teach me procedural things!
+
+Teach me game multiplayer networking architecture things!
+
+Teach me VR things!
+
+Teach me Automation things!
+
 
