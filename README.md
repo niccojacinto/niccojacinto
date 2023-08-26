@@ -23,18 +23,31 @@ Here are some ideas to get you started:
                 (_______)(_______/(_______/(_______/(_______)|/     \|(_______/     \_/      |/     \|(_______/(_______/
 ```
 
-![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Hoe.gif)![Test](https://github.com/niccojacinto/niccojacinto/blob/main/Angeling.gif)Hi I'm Nicco 👋
+## 🎮 Game Programmer | Mississauga, ON 🇨🇦
 
-![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
-Teach me procedural things!
+Experienced Unity3D developer with a focus on gameplay mechanics, inventory systems, and physics. Seeking entry-level game programmer role to contribute expertise to crafting engaging gaming experiences.
 
-![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
-Teach me game multiplayer networking architecture things!
+🔭 Currently Seeking: Entry-level Game Programmer Role
+🚀 Goal: Innovating through AI integration, procedural game design, and VR/AR advancements.
 
-![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
-Teach me VR things!
+### 🕹️ Projects
+- **GoPhysio Exercise Assessment Software:** Led development of real-time exercise monitoring using Orbbec Persee 3D camera. Collaborated on UI, communication protocols, and C# coding for user experience.
+- **Coachella Valley Repertory Donorwall:** Designed and developed "Donorwall" software with remote control via tablets, enhancing interactivity and content management.
+- **Sushi Engine – Game Engine (C++):** Key contributor to 3D Rendering Pipeline and Base Code Framework, optimizing graphics and performance.
 
-![Test](https://github.com/niccojacinto/niccojacinto/blob/main/512.gif)
-Teach me Automation things!
+### 🛠️ Skills
+- Programming: C#, Python (fundamental), C++ (fundamental)
+- Game Engines: Unity3D
+- Tools: Visual Studio, Visual Studio Code, Bash, PowerShell
+- Project Management: Agile, Scrum, Kanban, Gantt Charts
+- Other: Java, JavaScript, HTML, CSS, SQL, MySQL
 
+### 📚 Education
+- Advanced Diploma in Game Programming (GPA: 3.8) - Humber College, Toronto
+- Microsoft Azure AI Fundamentals Professional Certificate
+- Google IT Support Certificate
+
+### 📬 Let's Connect
+🌐 Portfolio: [Your Portfolio Website](your-website-link)
+📧 Email: [Your Email Address](mailto:youremail@example.com)
 
