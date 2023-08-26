@@ -48,6 +48,6 @@ Experienced Unity3D developer with a focus on gameplay mechanics, inventory syst
 - Google IT Support Certificate
 
 ### 📬 Let's Connect
-🌐 Portfolio: [Your Portfolio Website](https://niccojacinto.wixsite.com/divinyx/portfolio)
-📧 Email: [Your Email Address](mailto:niccolo.jacinto@gmail.com)
+🌐 Portfolio: [My Portfolio](https://niccojacinto.wixsite.com/divinyx/portfolio)
+📧 Email: [niccolo.jacinto@gmail.com](mailto:niccolo.jacinto@gmail.com)
 
