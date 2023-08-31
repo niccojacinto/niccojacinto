@@ -31,6 +31,11 @@ public int getRandomNumber() {
 ## 🎮 Game Programmer | Mississauga, ON 🇨🇦
 Play my [interteractive resume](https://niccojacinto.github.io/MyResume/).
 
+<p align="center">
+  <img src="https://github.com/niccojacinto/niccojacinto/blob/main/Assets/MyResumeSS.JPG" alt="My Pixel Art Photo"/ width="300" height="220">
+</p>
+
+
 Experienced Unity3D developer with a focus on gameplay mechanics, inventory systems, and physics. Seeking entry-level game programmer role to contribute expertise to crafting engaging gaming experiences.
 
 🔭 Currently Seeking: Entry-level Game Programmer Role
