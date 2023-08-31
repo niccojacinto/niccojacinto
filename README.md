@@ -9,10 +9,10 @@
 
 
 <p align="center">
-  <a href="mailto:niccolo.jacinto@gmail.com"/><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/niccojacinto"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/niccojacinto"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://niccojacinto.wixsite.com/divinyx"/><img src="https://img.shields.io/badge/wix-000?style=flat-square&logo=wix&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:niccolo.jacinto@gmail.com"/><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/niccojacinto"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/niccojacinto"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://niccojacinto.wixsite.com/divinyx"/><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
