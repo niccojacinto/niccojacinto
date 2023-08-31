@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:niccolo.jacinto@gmail.com"/><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bruno.vitorellitacca"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/niccojacinto"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/niccojacinto"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://niccojacinto.wixsite.com/divinyx"/><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -47,13 +47,4 @@ Experienced Unity3D developer with a focus on gameplay mechanics, inventory syst
 - Tools: Visual Studio, Visual Studio Code, Bash, PowerShell
 - Project Management: Agile, Scrum, Kanban, Gantt Charts
 - Other: Java, JavaScript, HTML, CSS, SQL, MySQL
-
-### 📚 Education
-- Advanced Diploma in Game Programming (GPA: 3.8) - Humber College, Toronto
-- Microsoft Azure AI Fundamentals Professional Certificate
-- Google IT Support Certificate
-
-### 📬 Let's Connect
-🌐 Portfolio: [My Portfolio](https://niccojacinto.wixsite.com/divinyx/portfolio)
-📧 Email: [niccolo.jacinto@gmail.com](mailto:niccolo.jacinto@gmail.com)
 
