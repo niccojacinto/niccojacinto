@@ -1,29 +1,35 @@
-<!--
-**niccojacinto/niccojacinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/niccojacinto/niccojacinto/blob/main/Assets/portrait2-modified.png" alt="My Pixel Art Photo"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> Nicco J </h1>
 
-```
-                |\     /|(  ____ \( \      (  ____ \(  ___  )(       )(  ____ \  |\     /|( )(  ___  )( \      ( \      
-                | )   ( || (    \/| (      | (    \/| (   ) || () () || (    \/  ( \   / )|/ | (   ) || (      | (      
-                | | _ | || (__    | |      | |      | |   | || || || || (__       \ (_) /    | (___) || |      | |      
-                | |( )| ||  __)   | |      | |      | |   | || |(_)| ||  __)       \   /     |  ___  || |      | |      
-                | || || || (      | |      | |      | |   | || |   | || (           ) (      | (   ) || |      | |      
-                | () () || (____/\| (____/\| (____/\| (___) || )   ( || (____/\     | |      | )   ( || (____/\| (____/\
-                (_______)(_______/(_______/(_______/(_______)|/     \|(_______/     \_/      |/     \|(_______/(_______/
+
+
+
+<p align="center">
+  <a href="mailto:niccolo.jacinto@gmail.com"/><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/bruno.vitorellitacca"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/niccojacinto"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://niccojacinto.wixsite.com/divinyx"/><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/niccojacinto/niccojacinto/blob/main/Assets/github-header-image.png" alt="My Pixel Art Photo"/>
+</p>
+
+
+
+```csharp
+public int getRandomNumber() {
+	return 5;
+}
 ```
 
 ## 🎮 Game Programmer | Mississauga, ON 🇨🇦
+Play my [interteractive resume](https://niccojacinto.github.io/MyResume/).
 
 Experienced Unity3D developer with a focus on gameplay mechanics, inventory systems, and physics. Seeking entry-level game programmer role to contribute expertise to crafting engaging gaming experiences.
 
