@@ -23,6 +23,7 @@
 
 
 ```csharp
+// Harhar
 public int getRandomNumber() {
 	return 5;
 }
